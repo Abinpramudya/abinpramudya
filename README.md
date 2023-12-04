@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Abin
 #### I am a Marine Engineering student
-![I am a Marine Engineering student](https://i.imgur.com/IVEk770.jpg)
+![I am a Marine Engineering student](https://i.imgur.com/haP54IX.png)
 
 I have a deep passion for integrating technology into the maritime industry. Over the past few years, I've dedicated my efforts to underwater robotics projects at Banyubramanta ITS. Presently, I am in the final year of my bachelor's degree, majoring in Marine Engineering at the Department of Marine Engineering ITS.
 
