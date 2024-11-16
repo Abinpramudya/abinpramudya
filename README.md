@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Abin
-#### I am a Marine Engineering student
-![I am a Marine Engineering student](https://i.imgur.com/haP54IX.png)
+#### I am a Student in Erasmus Mundus Joint Master Degree for Marine Inteligent Robotics
+![](https://i.imgur.com/haP54IX.png)
 
-I have a deep passion for integrating technology into the maritime industry. Over the past few years, I've dedicated my efforts to underwater robotics projects at Banyubramanta ITS. Presently, I am in the final year of my bachelor's degree, majoring in Marine Engineering at the Department of Marine Engineering ITS.
+I have a deep passion for integrating technology into the maritime industry. Over the past few years, I've dedicated my efforts to underwater robotics projects at Banyubramanta ITS. Presently, I am a student in marine inteligent robotics an erasmus mundus joint master degree, in the University of Toulon. I hold a bachelor degree in Marine Engineering from Institute Technology of 10th of November, Indonesia.
 
 Skills: Python / Tensorflow / ROS / Selenium / Arduino 
 
